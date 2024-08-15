@@ -1,4 +1,4 @@
-# The Graph Docs
+# The Graph Docs Test
 
 This is the source code for The Graph’s documentation, accessible at [https://thegraph.com/docs](https://thegraph.com/docs).
 
